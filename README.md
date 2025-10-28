@@ -106,9 +106,6 @@ frontend/
 │       └── README.md   # Guia de exercícios
 ```
 
-### Ferramentas Recomendadas
-- **Backend**: Vitest, Supertest, Prisma
-- **Frontend**: Selenium WebDriver, Playwright, ou Cypress
 
 ## 📊 Entidades do Sistema
 
@@ -160,7 +157,7 @@ frontend/
 - `PUT /api/categories/:id` - Atualizar categoria
 - `DELETE /api/categories/:id` - Excluir categoria
 
-## 📚 Exercícios para Estudantes
+## 📚 Exercícios
 
 ### Nível Básico
 
