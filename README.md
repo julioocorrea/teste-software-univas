@@ -52,7 +52,7 @@ Este projeto foi estruturado para que os alunos pratiquem:
 
 ```bash
 # Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/flavio-mota/teste-software-univas.git
 cd teste-software-univas
 
 # Copie o arquivo de variáveis de ambiente
@@ -82,6 +82,13 @@ docker-compose ps
 # Execute as migrações e seed
 docker-compose exec backend npm run db:push
 docker-compose exec backend npm run db:seed
+```
+
+### 5. Para parar a aplicação
+
+```bash
+# Encerra a aplicação e remove os containers
+docker-compose down
 ```
 
 ## 🧪 Implementando os Testes
@@ -270,13 +277,13 @@ docker-compose exec backend bash
 docker-compose exec frontend bash
 ```
 
-## 🤝 Contribuindo
+<!-- ## 🤝 Contribuindo
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
 3. Commit suas mudanças (`git commit -am 'Adiciona nova funcionalidade'`)
 4. Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
+5. Abra um Pull Request -->
 
 ## 📄 Licença
 

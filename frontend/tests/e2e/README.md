@@ -1,4 +1,4 @@
-# 📝 Exercícios de Teste E2E
+<!-- # 📝 Exercícios de Teste E2E
 
 Este diretório contém os exercícios para implementação de testes de interface pelos alunos.
 
@@ -78,4 +78,4 @@ Os alunos devem implementar testes End-to-End (E2E) para a aplicação Task Mana
 ---
 
 **Boa sorte com os testes E2E!** 🌐✨
-
+ -->

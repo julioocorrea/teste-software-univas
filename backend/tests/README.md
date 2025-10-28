@@ -1,4 +1,4 @@
-# 📝 Exercícios de Teste de Software
+<!-- # 📝 Exercícios de Teste de Software
 
 Este diretório contém os exercícios para implementação de testes pelos alunos.
 
@@ -69,4 +69,4 @@ Os alunos devem implementar diferentes tipos de testes para a aplicação Task M
 ---
 
 **Boa sorte com os testes!** 🧪✨
-
+ -->
