@@ -11,7 +11,6 @@ describe('Users - abrir formulário de criação', () => {
     it('mostra o formulário ao clicar em "Adicionar Usuário"', async () => {
         vi.spyOn(api, 'get').mockResolvedValue({ data: { data: [] } } as any)
         render(<Users />)
-        // espera o botão ficar disponível após o loading sumir
         const addButton = await screen.findByRole('button', { name: /Adicionar Usuário/i })
         await userEvent.click(addButton)
         expect(screen.getByLabelText(/Nome:/i)).toBeInTheDocument()
